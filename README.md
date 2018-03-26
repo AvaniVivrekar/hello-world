@@ -1,2 +1,2 @@
 # hello-world
-first repository ,just learning to breate repository using this one 
+first repository ,just learning to create repository using this one 
